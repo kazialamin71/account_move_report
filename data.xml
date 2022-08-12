@@ -27,7 +27,7 @@
         </table>
     </body>
 </html>]]></field>
-            <field name="orientation">Landscape</field>
+            <field name="orientation">Portrait</field>
             <field name="format">Letter</field>
             <field name="html"><![CDATA[<html>
     <head>
